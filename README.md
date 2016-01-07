@@ -1,1 +1,1 @@
-This is test repository representing the upstream
+This is a downstream repository created from the initial upstream
